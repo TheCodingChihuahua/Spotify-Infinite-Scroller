@@ -1,13 +1,14 @@
 This userscript was built and tested using Tampermonkey. You need Tampermonkey or some other userscript loader to run this userscript.
-Latest version 1.9.5 by TheCodingChihuahua
+Latest version 1.9.7 by TheCodingChihuahua
 Spotify Infinite Scroller is styled to fit right in to Spotify's UI
 
 First release!
 
-1.9.5 adds:
+1.9.7 has:
 - Infinite scroller
 - Toggle button in bottom right corner, press to switch infinite scrolling on/off
 - Toggle button changes the mouse pointer to "select" when hovered
+- Super easy-to-read debug in the console
 
 To-do:
 - Settings for where the toggle button is (maybe)
