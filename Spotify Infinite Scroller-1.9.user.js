@@ -66,7 +66,7 @@ Super simple, just clicks the button
             btn._watched = true;
             observer.observe(btn);
             console.log('Spotify Infinite Scroll v'+version+': Watching Load more button');
-            // NEW: Manual check if already in expanded view (fixes no-trigger on short pages)
+            // Manual check if already in expanded view (fixes no-trigger on short pages)
             setTimeout(() => {
                 if (!btn) return; // Safety
                 const rect = btn.getBoundingClientRect();
