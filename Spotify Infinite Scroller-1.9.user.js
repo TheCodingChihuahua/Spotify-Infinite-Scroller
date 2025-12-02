@@ -2,7 +2,7 @@
 
 // @name         Spotify Infinite Scroller
 // @namespace    http://tampermonkey.net/
-// @version      1.9
+// @version      1.9.5
 // @description  Infinite podcast scrolling + toggle button (visible on podcast pages)
 // @author       TheCodingChihuahua
 // @match        https://open.spotify.com/*
@@ -12,7 +12,7 @@
 
 // ==/UserScript==
 
-var version = 1.9;
+var version = '1.9.5';
 
 // Changelog
 /*
