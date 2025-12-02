@@ -2,7 +2,7 @@
 
 // @name         Spotify Infinite Scroller
 // @namespace    http://tampermonkey.net/
-// @version      1.9.5
+// @version      1.9.7
 // @description  Infinite podcast scrolling + toggle button (visible on podcast pages)
 // @author       TheCodingChihuahua
 // @match        https://open.spotify.com/*
@@ -12,10 +12,16 @@
 
 // ==/UserScript==
 
-var version = '1.9.5';
+var version = '1.9.7';
 
 // Changelog
 /*
+1.9.7 (hotfix)
+added logging in debug for when you toggle autoload
+
+1.9.5 (hotfix)
+I cant remember what I added in this update :P
+
 1.9.0 (hotfix)
 Moved the toggle button from top right to bottom right, and added a more dynamic debug system, now when you hover over the button the pointer changes
 
