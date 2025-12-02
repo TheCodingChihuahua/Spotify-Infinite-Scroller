@@ -159,8 +159,8 @@ Super simple, just clicks the button
     new MutationObserver(findButton).observe(document.body, { childList: true, subtree: true });
     setInterval(findButton, 3000);
     setInterval(checkPage, 300);
-    setInterval(updateButtonPosition, 500); // Fallback safety
+    setInterval(updateButtonPosition, 100); // Fallback safety
     checkPage();
-    setTimeout(findButton, 500);
+    setTimeout(findButton, 100);
     console.log('Spotify Infinite Scroll v'+version+': Loaded');
 })();
