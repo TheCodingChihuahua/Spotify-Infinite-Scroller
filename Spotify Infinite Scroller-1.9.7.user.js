@@ -8,6 +8,7 @@
 // @match        https://open.spotify.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=spotify.com
 // @grant        none
+// @license      Apache-2.0 license
 // @run-at       document-idle
 
 // ==/UserScript==
