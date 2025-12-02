@@ -1,5 +1,6 @@
 This userscript was built and tested using Tampermonkey. You need Tampermonkey or some other userscript loader to run this userscript.
 Latest version 1.9.0 by TheCodingChihuahua
+Spotify Infinite Scroller is styled to fit right in to Spotify's UI
 
 First release!
 
