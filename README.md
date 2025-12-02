@@ -18,4 +18,4 @@ To-do:
 I'm open for suggestions! Add suggestions or bugs in Issues tab!
 Thanks for reading!
 
-Copyright 2025 TheCodingChihuahua (apache license)
+Copyright 2025 TheCodingChihuahua (Apache-2.0 license)
