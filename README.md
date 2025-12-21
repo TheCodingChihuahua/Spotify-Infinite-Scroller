@@ -2,6 +2,8 @@ This userscript was built and tested using Tampermonkey. You need Tampermonkey o
 Latest version 1.9.7 by TheCodingChihuahua
 Spotify Infinite Scroller is styled to fit right in to Spotify's UI
 
+NOTICE: This userscript will soon be removed as a V2 is coming, with config options and a more reliable system.
+
 First release!
 
 1.9.7 has:
